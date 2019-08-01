@@ -1,0 +1,26 @@
+.banner {
+  background-image: linear-gradient(rgba(250,250,250,.8), rgba(250,250,250,.4), rgba(250,250,250,.6)), url("../../images/sticks.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 200px;
+  width: 100%;
+  padding: 150px 350px 200px 0;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 120px;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+  margin: 0 auto;
+  line-height: 170px;
+}
+
+.banner p {
+  color: rgb(240, 240, 240);
+  font-size: 25px;
+  font-weight: lighter;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.4);
+  margin: 0 80px 0 0;
+  line-height: 35px;
+}

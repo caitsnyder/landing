@@ -1,0 +1,40 @@
+.card-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  flex-direction: row;
+  padding-bottom: 50px;
+}
+
+.card {
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  margin: 0 10px;
+  padding: 80px 25px;
+}
+
+.card p {
+  opacity: .5;
+  margin: 10;
+}
+
+.card h4 {
+  color: rgba(90, 99, 114, 0.7);
+  font-size: 18px;
+  margin: 0;
+}
+
+.card img {
+  height: 100%;
+  object-fit: cover;
+  margin: 10px 10px 25px 0;
+}

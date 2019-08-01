@@ -1,0 +1,20 @@
+.footer {
+    background: rgba(90, 99, 114, 0.8);
+    text-align: center;
+    padding: 60px;
+    margin-top: 15px;
+}
+
+.social-box {
+    text-align: center;
+}
+
+.social-box .social-links {
+    color: #FFFFFF;
+    font-size: 30px;
+    padding: 0 5px;
+}
+
+.social-box .social-links:hover {
+    color: #F9F2ED;
+}
